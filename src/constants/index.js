@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Attractive",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "The best websites offer amazing design and appeal to customers, we do that for you",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "Cost-Effectve",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Since we are freelancers, our rates our 1/10th of the industry standard for the same product",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Long-Lasting",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Our designs and programmers are timeless, we help manufacture intricate websites",
   },
 ];
 
